@@ -85,7 +85,7 @@ class Movies extends Component {
         <View
           style={styles.container}
         >
-          <Text>
+          <Text style={{fontWeight: 'bold'}}>
             {movie.title}
           </Text>
           <Text>
